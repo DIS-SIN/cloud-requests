@@ -9,10 +9,9 @@ assignees: ''
 
 **On what platforms do you need an account?**
 
-AWS is our standard Cloud platform. If selecting Azure or GCP, please provide reason.
+AWS is our standard Cloud platform. If selecting Azure or GCP, please provide reason below.
 
-
-
+(Select an item by adding an `x` with the notation:  `[x]`)
 
 - [ ] AWS
 - [ ] Azure
@@ -20,3 +19,5 @@ AWS is our standard Cloud platform. If selecting Azure or GCP, please provide re
 - [ ] Slack
 - [ ] Trello
 - [ ] Zoom
+
+**Other information**
